@@ -1,0 +1,5 @@
+[[redirects]]
+  from = “https://aromal.loopthrough.tech/*”
+  to = “https://blog.loopthrough.tech/author/aromal/:splat”
+  status = 200
+  force = true
