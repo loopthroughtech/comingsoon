@@ -1,1 +1,7 @@
-https://aromal.loopthrough.tech/* https://blog.loopthrough.tech/author/aromal/:splat 200!
+# netlify redirects
+# from_url to_url
+
+# External
+
+/aromal        https://blog.loopthrough.tech/author/aromal/
+/aravind         https://blog.loopthrough.tech/author/aravind/
